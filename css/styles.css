@@ -1,0 +1,65 @@
+body {
+   background-color: black;
+ }
+h1, h2, h3{
+  color: white;
+}
+h3{
+  width: 600px;
+  text-align: inherit;
+}
+h2 {
+  margin: left;
+}
+inner>.item>img {
+    line-height: 1;
+    min-width: 100%;
+    height: 700px;
+    size: cover;
+    object-fit: cover;
+}
+
+
+
+ {
+   text-emphasis-color: white;
+ }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+
+ .green{
+
+  color: green;
+  text-align: left;
+}
+.Animas{
+  : right;
+}
+
+.h2 {
+  color: green;
+}
